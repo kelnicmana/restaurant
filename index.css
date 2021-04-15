@@ -44,6 +44,8 @@ body {
     font-size: 6vw;
     color: white;
     font-family: 'Lobster', cursive;
+    cursor: pointer;
+    
 }
 
 #content {
@@ -101,4 +103,8 @@ p {
 
 h2 {
     font-size: 2rem;
+}
+
+.underline {
+    text-decoration: underline;
 }
